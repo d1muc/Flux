@@ -34,4 +34,3 @@ chmod +x install.sh
 
 4. Restart your terminal** or open a new tab. Flux Shell automatically integrates into your `~/.bashrc` / `~/.zshrc` and will launch on startup.
 
-(The installer handles missing Python dependencies (`prompt_toolkit`, `rich`) automatically and sets up background configurations for terminal emulators like Kitty).
