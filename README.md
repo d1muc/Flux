@@ -13,8 +13,8 @@ Installation Steps
 1. Clone the repository and enter the project folder:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone [https://github.com/d1muc/Flux.git](https://github.com/d1muc/Flux.git)
+cd Flux
 
 ```
 
